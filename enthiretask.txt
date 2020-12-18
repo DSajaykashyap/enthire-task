@@ -10,7 +10,7 @@
    6. Adaboost
    7. XG Boost
    8. K neighbour classifier
-2. Among these linear svc give best result 
+2. Among these linear svc give best result with test accuracy of 93 % 
 3. Metric taken into account are : Accuracy , Recall , Precision and F1 score
 4. To increase performance of linear svc model i tried to play with its parameter but default model gives best result
 5. I have also tried to play with parameter  like learning rate , max_depth ,min_sample_split etc in other models like random forest
